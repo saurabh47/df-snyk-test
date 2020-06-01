@@ -50,7 +50,7 @@
     "jquery-ui": "^1.12.1",
     "ng-zorro-antd": "^8.5.2",
     "ngx-cacheable": "^1.4.1",
-    "ngx-color-picker": "^9.1.0",
+    "ngx-color": "^5.1.2",
     "ngx-csv": "^0.3.2",
     "ngx-quicklink": "^0.2.1",
     "ngx-smooth-dnd": "^0.4.1",
