@@ -8,7 +8,7 @@
     "test": "ng test",
     "lint": "ng lint",
     "e2e": "ng e2e",
-    "build.prod": "ng build --prod && node git-version.js"
+    "build.prod": "node --max_old_space_size=3592 ./node_modules/@angular/cli/bin/ng build --prod && node git-version.js"
   },
   "private": true,
   "dependencies": {
