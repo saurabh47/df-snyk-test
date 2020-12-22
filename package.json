@@ -52,7 +52,7 @@
     "jquery": "^3.4.1",
     "jquery-ui": "^1.12.1",
     "jstz": "^2.1.1",
-    "ng-zorro-antd": "^8.5.2",
+    "ng-zorro-antd": "^11.0.0",
     "ngx-cacheable": "^1.4.1",
     "ngx-color": "^5.1.2",
     "ngx-csv": "^0.3.2",
