@@ -47,7 +47,7 @@
     "d3": "^5.15.0",
     "file-saver": "^2.0.2",
     "font-awesome": "^4.7.0",
-    "highcharts": "^8.0.4",
+    "highcharts": "^9.0.0",
     "highcharts-angular": "^2.4.0",
     "html2canvas": "^1.0.0-rc.5",
     "jquery": "^3.4.1",
