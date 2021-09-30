@@ -29,7 +29,7 @@
     "@fullcalendar/timegrid": "^4.4.0",
     "@ng-idle/core": "^8.0.0-beta.4",
     "@ng-idle/keepalive": "^8.0.0-beta.4",
-    "@ngneat/transloco": "^2.19.0",
+    "@ngneat/transloco": "^3.0.0",
     "@ngx-formly/core": "^5.10.0",
     "@ngx-formly/ng-zorro-antd": "0.0.1",
     "@ngx-formly/schematics": "^5.10.0",
